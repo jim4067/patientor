@@ -4,7 +4,7 @@
   "description": "a simple medical record application for doctors who handle diagnoses and basic health information of their patients.",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tsc" : "tsc"
   },
   "keywords": [
     "medical-app"
